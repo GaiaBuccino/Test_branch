@@ -1,6 +1,6 @@
 italics
 header
-links 
+LINKS 
 pictures
 bullets
 bold
