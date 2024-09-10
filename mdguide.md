@@ -2,5 +2,5 @@ italics
 header
 LINKS 
 pictures
-bullets
+Bullets
 bold
