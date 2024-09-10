@@ -1,6 +1,6 @@
-italics
-header
-LINKS 
-pictures
-BOLD
-Bullets
+# italics
+# header
+# LINKS 
+# PICTURES
+# BOLD
+# Bullets
