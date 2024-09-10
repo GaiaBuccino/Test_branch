@@ -3,4 +3,5 @@ header
 LINKS 
 pictures
 bullets
-bold
+BOLD
+
