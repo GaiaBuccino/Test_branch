@@ -1,6 +1,6 @@
-Italics
-Header
-links 
+italics
+header
+LINKS 
 pictures
-Bullets
+bullets
 bold
